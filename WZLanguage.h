@@ -7,6 +7,8 @@
 
 #import <Foundation/Foundation.h>
 #import "WZLanguageHeader.h"
+#import "WZLanguageENUM.h"
+#import "WZLanguageConstants.h"
 NS_ASSUME_NONNULL_BEGIN
 
 #define StringKey(__key__) [WZLanguage stringWithKey:__key__]
