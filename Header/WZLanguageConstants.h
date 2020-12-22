@@ -16,5 +16,11 @@ static NSString *const WZLanguageJSONKey_AR = @"ar";
 static NSString *const WZLanguageJSONKey_IN = @"hi";
 /// 简体中文key
 static NSString *const WZLanguageJSONKey_ZH = @"zh";
+/// 法文key
+static NSString *const WZLanguageJSONKey_FR = @"fr";
+/// 日文key
+static NSString *const WZLanguageJSONKey_JA = @"ja";
+/// 韩文key
+static NSString *const WZLanguageJSONKey_KO = @"ko";
 
 #endif /* WZLanguageConstants_h */

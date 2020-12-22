@@ -169,6 +169,12 @@
         keyString = WZLanguageJSONKey_IN;
     }else if (type == WZLanguageTypeAR) {
         keyString = WZLanguageJSONKey_AR;
+    }else if (type == WZLanguageTypeFR) {
+        keyString = WZLanguageJSONKey_FR;
+    }else if (type == WZLanguageTypeJA) {
+        keyString = WZLanguageJSONKey_JA;
+    }else if (type == WZLanguageTypeKO) {
+        keyString = WZLanguageJSONKey_KO;
     }
     if (!keyString) {
         return @"";
