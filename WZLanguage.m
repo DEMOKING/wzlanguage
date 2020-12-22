@@ -7,7 +7,7 @@
 
 #import "WZLanguage.h"
 #import "WZLanguageConstants.h"
-#define WZLanguageVersion @"1.0.0"
+#define WZLanguageVersion @"1.0.0.005"
 @interface WZLanguage ()
 
 @property (strong, nonatomic) NSDictionary *datas;
